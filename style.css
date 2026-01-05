@@ -71,3 +71,30 @@ body {
   grid-template-columns: auto auto;
   justify-content: center;
 }
+.galeriakepek{
+  border-radius: 20px;
+  width: 500px;
+  border: solid 5px black;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+#galeria{
+  border: solid 5px black;
+  margin-top: 50px;
+  background-color: white;
+  width:1200px;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#forrasok{
+  width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  color: black;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: white;
+}
