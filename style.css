@@ -136,14 +136,12 @@ body {
     margin-right: 0 !important;
   }
   img{
-    width: 100px !important;
+    width: 150px !important;
   }
   #fank{
     width: 100px;
   }
-  .container{
-    display: flex;
-  }
+
   main{
     max-width: 380px !important;
     margin-left: 0 !important;
