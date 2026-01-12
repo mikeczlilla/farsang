@@ -87,6 +87,7 @@ body {
   border-radius: 20px;
   margin-left: auto;
   margin-right: auto;
+  padding: 10px;
 }
 #forrasok{
   width: 1500px;
@@ -97,4 +98,60 @@ body {
   padding: 20px;
   border-radius: 20px;
   background-color: white;
+}
+@media (max-width: 600px){
+  #H1{
+    max-width: 200px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  #carousel{
+    max-width: 380px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  #farsangHistory{
+    max-width: 380px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  #farsangHagyomany{
+    max-width: 380px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  #galeria{
+    max-width: 380px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  #forrasok{
+    max-width: 380px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  nav{
+    max-width: 380px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  img{
+    width: 100px !important;
+  }
+  #fank{
+    width: 100px;
+  }
+  .container{
+    display: flex;
+  }
+  main{
+    max-width: 380px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  body{
+    max-width: 380px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
 }
